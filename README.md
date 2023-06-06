@@ -6,7 +6,7 @@
 
 # Analysis of Health Insurance Dataset using Python
 
-The main aim of the Project was to perform Exploratory Data Analysis and Perform cleaning and perform predictions from the Corona Dataset.
+The main aim of the Project was to perform Exploratory Data Analysis and Perform cleaning and perform predictions from the Health Insurance Dataset.
 
 Imported various Python libraries such as Pandas, NumPy, Seaborn and Matplotlib into Google Collab and Readed the corona dataset using read_csv() function and checked for duplicates and null values. 
 
